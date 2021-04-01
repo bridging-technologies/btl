@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/btl.iml" filepath="$PROJECT_DIR$/.idea/btl.iml" />
+      <module fileurl="file://D:/xampp/htdocs/.idea/htdocs.iml" filepath="D:/xampp/htdocs/.idea/htdocs.iml" />
     </modules>
   </component>
 </project>
