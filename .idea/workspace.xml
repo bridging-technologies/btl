@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/update.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="598" column="24" selection-start-line="598" selection-start-column="24" selection-end-line="598" selection-end-column="24" />
+            <state>
+              <caret column="9304" selection-start-column="9304" selection-end-column="9304" />
             </state>
           </provider>
         </entry>
@@ -161,18 +161,17 @@
       <workItem from="1617692593729" duration="1211000" />
       <workItem from="1618039431990" duration="2735000" />
       <workItem from="1618052887814" duration="209000" />
-      <workItem from="1618322081135" duration="914000" />
+      <workItem from="1618322081135" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15972000" />
+    <option name="totallyTimeSpent" value="16225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SOQL Query" />
@@ -188,7 +187,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.507365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.507365" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/update.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="598" column="24" selection-start-line="598" selection-start-column="24" selection-end-line="598" selection-end-column="24" />
+        <state>
+          <caret column="9304" selection-start-column="9304" selection-end-column="9304" />
         </state>
       </provider>
     </entry>
