@@ -20,7 +20,17 @@
     <drupalPath />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="9335" column="1" selection-start-line="9335" selection-start-column="1" selection-end-line="9335" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +64,7 @@
       <find>.head-content p</find>
       <find>inpu</find>
       <find>.about-head-content h1</find>
+      <find>.blog-content-inner h3</find>
     </findStrings>
     <dirStrings>
       <dir>D:\xampp\htdocs\modules\push_framework</dir>
@@ -111,6 +122,11 @@
               <item name="btl" type="b2602c69:ProjectViewProjectNode" />
               <item name="btl" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="btl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btl" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,17 +195,19 @@
       <workItem from="1622723155422" duration="942000" />
       <workItem from="1622732113415" duration="316000" />
       <workItem from="1622817963210" duration="36000" />
-      <workItem from="1623308900628" duration="236000" />
+      <workItem from="1623308900628" duration="303000" />
+      <workItem from="1623316069125" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25818000" />
+    <option name="totallyTimeSpent" value="26155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -278,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="3338" column="19" lean-forward="true" selection-start-line="3338" selection-start-column="19" selection-end-line="3338" selection-end-column="19" />
+        <state relative-caret-position="458">
+          <caret line="9335" column="1" selection-start-line="9335" selection-start-column="1" selection-end-line="9335" selection-end-column="1" />
         </state>
       </provider>
     </entry>
