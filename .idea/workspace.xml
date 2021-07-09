@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7c5ca5-6a8b-4959-a11d-b00accac9703" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,17 +22,7 @@
     <favorites_list name="btl" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7153" column="13" selection-start-line="7153" selection-end-line="7153" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +38,6 @@
       <find>.shop-star-rating span i</find>
       <find>help-accordion .panel-group .panel-default .panel-heading .panel-title</find>
       <find />
-      <find>.right_menu_item-content</find>
       <find>.menuzord-menu ul.dropdown li ul.dropdown</find>
       <find>.focus(</find>
       <find>cdn</find>
@@ -74,6 +62,8 @@
       <find>.blog-content-inner h3</find>
       <find>.head-content p</find>
       <find>.top h1</find>
+      <find>.right_menu_item-content</find>
+      <find>menu_show</find>
     </findStrings>
     <dirStrings>
       <dir>D:\xampp\htdocs\modules\push_framework</dir>
@@ -106,14 +96,15 @@
         <option value="$PROJECT_DIR$/css/update.css" />
         <option value="$PROJECT_DIR$/../../metric/templates/page--node--blog-post.html.twig" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/page.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="422" />
+    <option name="y" value="46" />
+    <option name="width" value="1326" />
+    <option name="height" value="695" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -132,6 +123,11 @@
               <item name="btl" type="b2602c69:ProjectViewProjectNode" />
               <item name="btl" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="btl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btl" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,17 +211,17 @@
       <workItem from="1624456640056" duration="1535000" />
       <workItem from="1624535211254" duration="213000" />
       <workItem from="1625303949380" duration="1442000" />
+      <workItem from="1625839895725" duration="825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33563000" />
+    <option name="totallyTimeSpent" value="34388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.20953101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21255673" />
       <window_info id="Favorites" order="1" sideWeight="0.5008183" side_tool="true" weight="0.1913767" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,7 +234,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.507365" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.507365" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="SOQL Query" order="12" />
       <window_info anchor="bottom" id="Log Analyzer" order="13" weight="0.3289689" />
@@ -302,10 +298,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../metric/templates/page--node--blog-post.html.twig" />
+    <entry file="file://$PROJECT_DIR$/js/page.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7153" column="13" selection-start-line="7153" selection-end-line="7153" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="292" lean-forward="true" selection-start-line="292" selection-end-line="292" />
         </state>
       </provider>
     </entry>
