@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7c5ca5-6a8b-4959-a11d-b00accac9703" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,12 +23,12 @@
     <favorites_list name="btl" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="712" column="13" lean-forward="true" selection-start-line="712" selection-start-column="13" selection-end-line="712" selection-end-column="13" />
+            <state relative-caret-position="278">
+              <caret line="9277" column="1" lean-forward="true" selection-start-line="9277" selection-start-column="1" selection-end-line="9277" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -44,9 +45,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.shop-select-2</find>
-      <find>.shop-star-rating span i</find>
-      <find>help-accordion .panel-group .panel-default .panel-heading .panel-title</find>
       <find />
       <find>.menuzord-menu ul.dropdown li ul.dropdown</find>
       <find>.focus(</find>
@@ -74,6 +72,9 @@
       <find>.top h1</find>
       <find>.right_menu_item-content</find>
       <find>menu_show</find>
+      <find>menuzord-menu ul.dropdown li a</find>
+      <find>.menuzord-menu ul.dropdown li a, .menuzord-menu ul.dropdown li a:hover</find>
+      <find>font</find>
     </findStrings>
     <dirStrings>
       <dir>D:\xampp\htdocs\modules\push_framework</dir>
@@ -102,10 +103,10 @@
         <option value="D:/xampp/htdocs/themes/metric/templates/html.html.twig" />
         <option value="D:/xampp/htdocs/themes/metric/templates/node--blog-post.html.twig" />
         <option value="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/../../index.php" />
         <option value="$PROJECT_DIR$/css/update.css" />
         <option value="$PROJECT_DIR$/../../metric/templates/page--node--blog-post.html.twig" />
         <option value="$PROJECT_DIR$/js/page.js" />
+        <option value="$PROJECT_DIR$/../../index.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
@@ -135,11 +136,6 @@
               <item name="btl" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="btl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btl" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -149,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../index.php" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -222,18 +218,19 @@
       <workItem from="1624535211254" duration="213000" />
       <workItem from="1625303949380" duration="1442000" />
       <workItem from="1625839895725" duration="825000" />
-      <workItem from="1625920701726" duration="275000" />
+      <workItem from="1625920701726" duration="1282000" />
+      <workItem from="1625936789318" duration="2777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34663000" />
+    <option name="totallyTimeSpent" value="38447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21558245" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21860817" />
       <window_info id="Favorites" order="1" sideWeight="0.5008183" side_tool="true" weight="0.1913767" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,7 +298,6 @@
       </provider>
     </entry>
     <entry file="file://D:/xampp/htdocs/core/misc/dialog/off-canvas.motion.css" />
-    <entry file="file://$PROJECT_DIR$/../../index.php" />
     <entry file="file://$PROJECT_DIR$/css/update.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -313,10 +309,20 @@
     <entry file="file://$PROJECT_DIR$/js/page.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../cod.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="1307" column="7" selection-start-line="1307" selection-start-column="7" selection-end-line="1307" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="712" column="13" lean-forward="true" selection-start-line="712" selection-start-column="13" selection-end-line="712" selection-end-column="13" />
+        <state relative-caret-position="278">
+          <caret line="9277" column="1" lean-forward="true" selection-start-line="9277" selection-start-column="1" selection-end-line="9277" selection-end-column="1" />
         </state>
       </provider>
     </entry>
