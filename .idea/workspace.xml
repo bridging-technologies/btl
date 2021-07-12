@@ -22,7 +22,17 @@
     <favorites_list name="btl" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="4765" column="20" lean-forward="true" selection-start-line="4765" selection-start-column="20" selection-end-line="4765" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,8 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find />
-      <find>.menuzord-menu ul.dropdown li ul.dropdown</find>
       <find>.focus(</find>
       <find>cdn</find>
       <find>onesignal</find>
@@ -62,8 +70,10 @@
       <find>menu_show</find>
       <find>menuzord-menu ul.dropdown li a</find>
       <find>.menuzord-menu ul.dropdown li a, .menuzord-menu ul.dropdown li a:hover</find>
-      <find>font</find>
       <find>.head-area</find>
+      <find>font</find>
+      <find>font-famil</find>
+      <find>font-family</find>
     </findStrings>
     <dirStrings>
       <dir>D:\xampp\htdocs\modules\push_framework</dir>
@@ -208,15 +218,16 @@
       <workItem from="1625303949380" duration="1442000" />
       <workItem from="1625839895725" duration="825000" />
       <workItem from="1625920701726" duration="1282000" />
-      <workItem from="1625936789318" duration="4141000" />
+      <workItem from="1625936789318" duration="5386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39811000" />
+    <option name="totallyTimeSpent" value="41056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21860817" />
       <window_info id="Favorites" order="1" sideWeight="0.5008183" side_tool="true" weight="0.1913767" />
@@ -309,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="7414" column="23" lean-forward="true" selection-start-line="7414" selection-start-column="23" selection-end-line="7414" selection-end-column="23" />
+        <state relative-caret-position="178">
+          <caret line="4765" column="20" lean-forward="true" selection-start-line="4765" selection-start-column="20" selection-end-line="4765" selection-end-column="20" />
         </state>
       </provider>
     </entry>
