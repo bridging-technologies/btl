@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff7c5ca5-6a8b-4959-a11d-b00accac9703" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-2-left-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-us-1-content.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/author-main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/author.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-author-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-author-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-author-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-author.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bucket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/case-study-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/case-study-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/case-study-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/case-study-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/case-study-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cogs-icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cogs-icon-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cogs-icon-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cogs-icon-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/coming-soon-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact-right-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact-us-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/faq-icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/faq-icon-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/faq-icon-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/feature-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/google-iframe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header-transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/headphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home-dashboard-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home-dashboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home-slider-img-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/laptop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-type-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-type-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/map-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mega-menu-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/page-titles/single-case-study-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/recent-post-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/recent-post-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/shop-book.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/side-panel-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sign.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/single-case-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/single-case-diagram-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/single-case-diagram-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/single-next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-feature-02-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/solution-slider-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/solution-slider-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/solution-slider-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/subcription-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab-content-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab-content-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab-content-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab-content-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab-content.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vertical-slider-bg.png" beforeDir="false" />
-    </list>
+    <list default="true" id="ff7c5ca5-6a8b-4959-a11d-b00accac9703" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,17 +20,7 @@
     <favorites_list name="btl" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="5830" column="20" lean-forward="true" selection-start-line="5830" selection-start-column="20" selection-end-line="5830" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -291,18 +219,17 @@
       <workItem from="1626329242698" duration="2307000" />
       <workItem from="1626338344958" duration="669000" />
       <workItem from="1626357703162" duration="1159000" />
-      <workItem from="1626690617778" duration="1274000" />
+      <workItem from="1626690617778" duration="1976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47492000" />
+    <option name="totallyTimeSpent" value="48194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.24281392" />
       <window_info id="Favorites" order="1" sideWeight="0.5008183" side_tool="true" weight="0.1913767" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -397,8 +324,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="5830" column="20" lean-forward="true" selection-start-line="5830" selection-start-column="20" selection-end-line="5830" selection-end-column="20" />
+        <state>
+          <caret column="126651" lean-forward="true" selection-start-column="126651" selection-end-column="126651" />
         </state>
       </provider>
     </entry>
