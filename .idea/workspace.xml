@@ -227,16 +227,18 @@
       <workItem from="1626933964379" duration="3236000" />
       <workItem from="1626942135571" duration="77000" />
       <workItem from="1627561859901" duration="176000" />
+      <workItem from="1627562132511" duration="497000" />
+      <workItem from="1628005584024" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52339000" />
+    <option name="totallyTimeSpent" value="52959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2655068" />
       <window_info id="Favorites" order="1" sideWeight="0.5008183" side_tool="true" weight="0.1913767" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="7261" column="21" selection-start-line="7261" selection-start-column="21" selection-end-line="7261" selection-end-column="21" />
+        <state relative-caret-position="370">
+          <caret line="1606" column="23" selection-start-line="1606" selection-start-column="23" selection-end-line="1606" selection-end-column="23" />
         </state>
       </provider>
     </entry>
